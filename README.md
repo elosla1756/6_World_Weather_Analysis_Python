@@ -19,6 +19,8 @@ Using input statements to retrieve customer weather preferences, we identified p
 2. The WeatherPy_vacation.csv file
 3. The WeatherPy_vacation_map.png image
 
+![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
+
 ## **Deliverable 3**:
 
 Using the Google Directions API, we created a travel itinerary that showed the route between four cities chosen from the customer’s possible travel destinations. Subsequently, we created a marker layer map with a pop-up marker for each city on the itinerary. In our Vacation_Itinerary folder, you will find the following files:
@@ -26,3 +28,5 @@ Using the Google Directions API, we created a travel itinerary that showed the r
 1. The Vacation_Itinerary.ipynb file
 2. The WeatherPy_travel_map.png image
 3. The WeatherPy_travel_map_markers.png image
+
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
